@@ -8,8 +8,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Using the pretrained model](#Using-the-pretrained-model)
-* [Training and evaluation](#Training-and-evaluation)
-* [Model Zoo](#Model-zoo)
+* [Explanation](#explanation)
+
 
 
 
