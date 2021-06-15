@@ -3,11 +3,13 @@
 
 ## Table of Content 
 
-- [Crawl all intership in HCMUT](#crawl-all-intership-in-hcmut)
-  - [Table of Content](#table-of-content)
-  - [About the project](#about-the-project)
-  - [Getting started](#getting-started)
-  - [Explanation](#explanation)
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Using the pretrained model](#Using-the-pretrained-model)
+* [Training and evaluation](#Training-and-evaluation)
+* [Model Zoo](#Model-zoo)
 
 
 
